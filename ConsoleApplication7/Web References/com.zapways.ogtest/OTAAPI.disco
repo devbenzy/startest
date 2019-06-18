@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="https://ogtest.zapways.com/AirAPI/V1.04/OTAAPI.asmx?wsdl" docRef="http://ogtest.zapways.com/AirAPI/V1.04/OTAAPI.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://ogtest.zapways.com/AirAPI/V1.04/OTAAPI.asmx" xmlns:q1="http://zapways.com/air/ota/" binding="q1:IOTA_Air" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://ogtest.zapways.com/AirAPI/V1.04/OTAAPI.asmx" xmlns:q2="http://zapways.com/air/ota/" binding="q2:OTAAPISoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://ogtest.zapways.com/AirAPI/V1.04/OTAAPI.asmx" xmlns:q3="http://zapways.com/air/ota/" binding="q3:IOTA_Air1" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://ogtest.zapways.com/AirAPI/V1.04/OTAAPI.asmx" xmlns:q4="http://zapways.com/air/ota/" binding="q4:OTAAPISoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

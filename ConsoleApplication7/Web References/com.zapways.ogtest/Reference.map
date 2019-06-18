@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="https://ogtest.zapways.com/AirAPI/V1.04/OTAAPI.asmx?disco" filename="OTAAPI.disco" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="https://ogtest.zapways.com/AirAPI/V1.04/OTAAPI.asmx?wsdl" filename="OTAAPI.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>
